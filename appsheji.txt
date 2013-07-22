@@ -1,0 +1,13 @@
+Application:
+
+Webapp + android Application
+
+
+Webapp:
+
+Dynamic web app
+Java web app + PHP web app
+
+
+Android application:
+The application based on web database and web views!
